@@ -166,7 +166,7 @@ Entre as estruturas implementadas estão:
 
 <!-- Inserir captura da pasta database/migrations -->
 
-<img src="IMG/migrations.png" width="40%" alt="Arquivos de Migrations"/>
+<img src="IMG/migrations.png" width="35%" alt="Arquivos de Migrations"/>
 
 *Arquivos de Migrations do projeto.*
 
@@ -227,7 +227,7 @@ As operações são realizadas por meio das interfaces da plataforma, permitindo
 
 <!-- Inserir capturas das operações CRUD realizadas nas telas -->
 
-<img src="IMG/crud_frontend.png" width="40%" alt="Operações CRUD no Front-end"/>
+<img src="IMG/crud_frontend.png" width="60%" alt="Operações CRUD no Front-end"/>
 
 *Exemplos das operações CRUD realizadas pela interface.*
 
@@ -243,7 +243,7 @@ O processamento das operações é realizado pelos Controllers, que recebem as r
 
 <!-- Inserir capturas dos Controllers, rotas e operações CRUD -->
 
-<img src="IMG/crud_backend.png" width="40%" alt="Operações CRUD no Back-end"/>
+<img src="IMG/crud_backend.png" width="60%" alt="Operações CRUD no Back-end"/>
 
 *Exemplos das operações CRUD implementadas no Back-end.*
 
