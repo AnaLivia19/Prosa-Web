@@ -5,14 +5,13 @@
 
 <img src="IMG/prosa%20logo.png" width="500px" alt="Logo Prosa"/>
 
-<img src="https://capsule-render.vercel.app/api?type=cylinder&height=100&color=5D793F&text=Uma%20Plataforma%20de%20Conexões%20Socais&reversal=true&textBg=false&fontColor=F8D77C&fontSize=30" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=cylinder&height=100&color=5D793F&text=Uma%20Plataforma%20de%20Conexões%20Sociais&reversal=true&textBg=false&fontColor=F8D77C&fontSize=30" width="100%" />
 
 <br>
 
-**→ Desenvolvido por: Ana Livia • Beatriz Batista • Jayane Elias **
+<h3><strong><em>→ Desenvolvido por: Ana Livia Vieira • Beatriz Batista • Jayane Elias</em></strong></h3>
 
 </div>
-
 
 
 ## Sobre o Projeto
@@ -167,7 +166,7 @@ Entre as estruturas implementadas estão:
 
 <!-- Inserir captura da pasta database/migrations -->
 
-<img src="IMG/migrations.png" width="85%" alt="Arquivos de Migrations"/>
+<img src="IMG/migrations.png" width="40%" alt="Arquivos de Migrations"/>
 
 *Arquivos de Migrations do projeto.*
 
@@ -198,7 +197,7 @@ O projeto possui os seguintes arquivos:
 
 <!-- Inserir captura da pasta database/seeders -->
 
-<img src="IMG/seeders.png" width="85%" alt="Arquivos de Seeders"/>
+<img src="IMG/seeders.png" width="40%" alt="Arquivos de Seeders"/>
 
 *Arquivos de Seeders do projeto.*
 
@@ -228,7 +227,7 @@ As operações são realizadas por meio das interfaces da plataforma, permitindo
 
 <!-- Inserir capturas das operações CRUD realizadas nas telas -->
 
-<img src="IMG/crud_frontend.png" width="85%" alt="Operações CRUD no Front-end"/>
+<img src="IMG/crud_frontend.png" width="40%" alt="Operações CRUD no Front-end"/>
 
 *Exemplos das operações CRUD realizadas pela interface.*
 
@@ -244,7 +243,7 @@ O processamento das operações é realizado pelos Controllers, que recebem as r
 
 <!-- Inserir capturas dos Controllers, rotas e operações CRUD -->
 
-<img src="IMG/crud_backend.png" width="85%" alt="Operações CRUD no Back-end"/>
+<img src="IMG/crud_backend.png" width="40%" alt="Operações CRUD no Back-end"/>
 
 *Exemplos das operações CRUD implementadas no Back-end.*
 
