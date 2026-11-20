@@ -1,0 +1,16 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer components {
+    .prosa-input {
+        @apply w-full rounded-full border-2 border-stone-300 bg-prosa-creme px-6 py-4 text-lg text-prosa-cinza placeholder-stone-400 focus:border-prosa-verde focus:ring-prosa-verde;
+    }
+    .prosa-btn {
+        @apply w-full rounded-full bg-prosa-amarelo py-4 font-titulo text-2xl font-bold text-white shadow-md hover:brightness-95;
+    }
+}
+
+[x-cloak] {
+    display: none !important;
+}
